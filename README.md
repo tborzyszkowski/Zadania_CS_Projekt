@@ -9,7 +9,7 @@ laboratoryjnych. Pierwszeństwo w oddawaniu zadań mają studenci w większą li
 dotychczas zdobytych punktów.
 
 ## Aplikacja realizująca CRUD
-Celem aplikacji jest implementacja aplikacji w technologii ASP MVC (framework lub core),
+Celem jest implementacja aplikacji w technologii ASP MVC (framework lub core),
 spełniającej poniższe założenia. Tematyka aplikacji dowolna.
 
 
@@ -34,16 +34,16 @@ spełniającej poniższe założenia. Tematyka aplikacji dowolna.
 Widoki należy przygotować wykorzystując Razor lub Blazor.
 Program powinien zawierać:
 - dwa widoki napisane ręcznie, nie powinny dotyczyć widoków CRUD: 5%
-- widok częściowy, pozwalający na częściowe odświerzanie strony 
+- widok częściowy, pozwalający na częściowe odświeżanie strony 
   (zwrócić uwagę na komunikację widoku częściowego z widokiem podstawowym): 10%
 - zastosowanie podstawowych helperów oraz 
-  definicja dwóch własnych o nietrywialnej funkcjonalności: 10%
+  definicja dwóch własnych helperów o nietrywialnej funkcjonalności: 10%
 - zastosowanie dwóch własnych layoutów stron: 10%
 
 ### Extra: 15%
 
 - modyfikacja routingu RESTowego w celu dostosowania do SEO: 5%
-- wykorzystanie w programie stanu sesji, strony i aplikacji: 5%
+- wykorzystanie w programie stanu sesji i aplikacji: 5%
 - umieszczenie strony w chmurze (np.: Azure) 
   oraz umiejętność zarządzania i monitorowania zasobami serwera: 5%
 
@@ -55,4 +55,4 @@ Program powinien zawierać:
 - [ASP.NET MVC Pattern](https://dotnet.microsoft.com/apps/aspnet/mvc)
 - [Overview of ASP.NET Core MVC](https://docs.microsoft.com/en-gb/aspnet/core/mvc/overview?view=aspnetcore-3.1)
 - [CodeProject: Learn MVC Project in 7 days](https://www.codeproject.com/Articles/866143/Learn-MVC-Project-in-days-Day)
-- [Yogi Hosting: ASP.NET Core](https://www.yogihosting.com/aspnet-core-introduction/)
+- [Yogi Hosting: ASP.NET Core](https://www.yogihosting.com/aspnet-core-introduction/) 
