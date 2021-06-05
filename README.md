@@ -1,7 +1,6 @@
 # Projekt: ASP MVC wymagania
 
-| Termin oddania  | Punkty     |
-|  (bez przedłużania) |   |
+| Termin oddania (bez przedłużania) | Punkty     |
 |----------------|:-----------|
 | 02.07.2021  23:00   |    25      |
 
