@@ -1,12 +1,11 @@
 # Projekt: ASP MVC wymagania
 
-### Punktacja
-50 punktów za realizację wszystkich punktów z poniższej specyfikacji.
+| Termin oddania  | Punkty     |
+|  (bez przedłużania) |   |
+|----------------|:-----------|
+| 02.07.2021  23:00   |    25      |
 
-### Czas
-Program należy umieścić w zadanym repozytorium i zaprezentować do końca zajęć 
-laboratoryjnych. Pierwszeństwo w oddawaniu zadań mają studenci w większą liczbą 
-dotychczas zdobytych punktów.
+--- 
 
 ## Aplikacja realizująca CRUD
 Celem jest implementacja aplikacji w technologii ASP MVC (framework lub core),
