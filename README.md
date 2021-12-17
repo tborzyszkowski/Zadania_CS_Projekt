@@ -2,7 +2,7 @@
 
 | Termin oddania (bez przedłużania) | Punkty     |
 |:----------------:|:-----------:|
-| 02.07.2021  23:00   |    25      |
+| 27.01.2022  23:00   |    50%      |
 
 --- 
 
@@ -35,7 +35,7 @@ Program powinien zawierać:
 - widok częściowy, pozwalający na częściowe odświeżanie strony 
   (zwrócić uwagę na komunikację widoku częściowego z widokiem podstawowym): 10%
 - zastosowanie podstawowych helperów oraz 
-  definicja dwóch własnych helperów o nietrywialnej funkcjonalności: 10%
+  definicja dwóch własnych (HTML | Tag) helperów o nietrywialnej funkcjonalności: 10%
 - zastosowanie dwóch własnych layoutów stron: 10%
 
 ### Extra: 15%
