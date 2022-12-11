@@ -4,7 +4,6 @@
 |:----------------:|:-----------:|
 | 28.01.2023  23:00   |    50%      |
 
---- 
 
 ## Aplikacja realizująca CRUD
 Celem jest implementacja aplikacji w technologii ASP MVC (framework lub core),
@@ -46,7 +45,7 @@ Program powinien zawierać:
   oraz umiejętność zarządzania i monitorowania zasobami serwera: 5%
 
 
-----
+
 ## Materiały dodatkowe
 
 - [Getting Started with ASP.NET MVC 5](https://docs.microsoft.com/pl-pl/aspnet/mvc/overview/getting-started/introduction/)
