@@ -2,7 +2,7 @@
 
 | Termin oddania (bez przedłużania) | Punkty     |
 |:----------------:|:-----------:|
-| 23.06.2023  23:00   |    15      |
+| 19.01.2024  23:00   |    50%      |
 
 
 ## Aplikacja realizująca CRUD
