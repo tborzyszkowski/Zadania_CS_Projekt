@@ -2,7 +2,7 @@
 
 | Termin oddania (bez przedłużania) | Punkty     |
 |:----------------:|:-----------:|
-| 19.01.2024  23:00   |    50%      |
+| 18.01.2024  10:30   |    50%      |
 
 
 ## Aplikacja realizująca CRUD
@@ -16,7 +16,7 @@ spełniającej poniższe założenia. Tematyka aplikacji dowolna.
   i odpowiednią implementacją więzów integralności danych: 10%
 - walidacja danych:
     - atrybuty dotyczące ograniczeń danych: 5%
-    - definicja i wykorzystanie włsnego walidatora 10% 
+    - definicja i wykorzystanie własnego walidatora 10% 
 - zastosowanie atrybutów modelu, wspomagających generowanie pól w widokach: 10%
 
 ### Kontrolery: 30%
@@ -27,7 +27,7 @@ spełniającej poniższe założenia. Tematyka aplikacji dowolna.
 ### Widoki: 35%
 Widoki należy przygotować wykorzystując Razor lub Blazor.
 Program powinien zawierać:
-- dwa widoki napisane ręcznie, nie powinny dotyczyć widoków CRUD: 10%
+- dwa widoki napisane ręcznie, inne niż CRUD: 10%
 - zastosowanie podstawowych helperów oraz 
   definicja dwóch własnych (HTML | Tag) helperów o nietrywialnej funkcjonalności: 15%
 - zastosowanie dwóch własnych layoutów stron: 10%
