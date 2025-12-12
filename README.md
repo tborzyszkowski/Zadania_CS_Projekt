@@ -2,7 +2,7 @@
 
 | Termin oddania (bez przedłużania) | Punkty     |
 |:----------------:|:-----------:|
-| 18.01.2025  10:30   |    50%      |
+| 29.01.2026  23:00   |    50%      |
 
 
 ## Aplikacja realizująca CRUD
@@ -22,7 +22,7 @@ spełniającej poniższe założenia. Tematyka aplikacji dowolna.
 ### Kontrolery: 30%
 
 - możliwość logowania w programie i wykorzystanie ról (powiązanie uprawnień zalogowanych userów z akcjami w kontrolerach): 15%
-- wykorzystanie LINQ w akcjach kontrolerów: 15%
+- wykorzystanie własnego (nie-generowane) LINQ w akcjach kontrolerów: 15%
 
 ### Widoki: 35%
 Widoki należy przygotować wykorzystując Razor lub Blazor.
